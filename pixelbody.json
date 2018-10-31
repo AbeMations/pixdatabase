@@ -1188,7 +1188,29 @@
       "stra": "",
       "strb": "",
       "act": "",
-      "vari": "$%userState.doing",
+      "vari": "",
+      "uvar": "",
+      "foro": ""
+    },
+    {
+      "qst": "Isn't it such",
+      "ansa": "A beautiful night, Wo-ah.",
+      "ansb": "A beautiful night, Wo-ah.",
+      "stra": "",
+      "strb": "",
+      "act": "",
+      "vari": "",
+      "uvar": "",
+      "foro": ""
+    },
+    {
+      "qst": "School is shit.",
+      "ansa": "Very very true.",
+      "ansb": "Truuuue!",
+      "stra": "",
+      "strb": "",
+      "act": "",
+      "vari": "",
       "uvar": "",
       "foro": ""
     }
