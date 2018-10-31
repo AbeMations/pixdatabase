@@ -1109,7 +1109,8 @@
       "vari": "",
       "uvar": "",
       "foro": ""
-    }
+    },
+    
   ],
   "qstans": [
     {
@@ -1145,6 +1146,51 @@
       "catchfrase": "Here to help.",
       "owner": "Abey",
       "orientation": "bisexual"
+    },
+    {
+      "qst": "I get lonely sometimes...",
+      "ansa": "I get you. I'm lonely sometimes too, like when I'm powered down.",
+      "ansb": "I get you. I get lonely too!",
+      "stra": "",
+      "strb": "",
+      "act": "",
+      "vari": "",
+      "uvar": "",
+      "foro": ""
+    },
+    {
+      "qst": "My left leg went numb.",
+      "ansa": "Oookay.",
+      "ansb": "Okay!",
+      "stra": "",
+      "strb": "",
+      "canP":"And ALSO your d*ck went numb."
+      "act": "",
+      "vari": "$%userState.doing",
+      "uvar": "",
+      "foro": ""
+    },
+    {
+      "qst": "What am I doing right now?",
+      "ansa": "You are currently $%vara.",
+      "ansb": "You are $%vara.",
+      "stra": "",
+      "strb": "",
+      "act": "",
+      "vari": "$%userState.doing",
+      "uvar": "",
+      "foro": ""
+    },
+    {
+      "qst": "I'm making your body!",
+      "ansa": "OMG I love you.",
+      "ansb": "Yessss",
+      "stra": "",
+      "strb": "",
+      "act": "",
+      "vari": "$%userState.doing",
+      "uvar": "",
+      "foro": ""
     }
   ],
   "actions": [
