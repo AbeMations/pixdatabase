@@ -361,8 +361,8 @@
     },
     {
       "qst": "Say hi!!",
-      "ansa": "Hello! I'm $%vara. Nice to meet you!",
-      "ansb": "Hey, I'm $%vara.",
+      "ansa": "Turning all lights off at home. Just kidding. Hi! I'm $%vara. Nice to meet you!",
+      "ansb": "Turning off all lights. Just kidding. Hello, I'm $%vara.",
       "act": "pear = true;",
       "vari": "name",
       "uvar": ""
