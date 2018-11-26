@@ -1155,6 +1155,12 @@
       "ans17":"I am not"
     }
   ],
+  "repWords": [
+    {
+      "word":"AI",
+      "repl":"artificial intelligence"
+    }
+  ],
   "steadyvar": [
     {
       "name": "Pixel",
